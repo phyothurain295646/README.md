@@ -16,10 +16,10 @@ cd fb-cracker
 
  pip install -r requirments.txt
 
-HOW TO USE:
-
 
 python2 fb-phyothurain.py
+
+
 
 
 
